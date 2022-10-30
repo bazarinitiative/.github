@@ -8,6 +8,7 @@
 
 ## Links
 - https://github.com/bazarinitiative/BazarServer/blob/master/doc/Bazar-Standard.md/
+- https://github.com/bazarinitiative/bazar-protocol-doc/blob/main/BazarProtocol.md
 - https://bazarinitiative.org/
 - https://developer.tbd.website/projects/web5/
 
