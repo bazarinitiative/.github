@@ -4,10 +4,10 @@
 
 ## How to start
 - You can start with a try from https://bazar.social/
-- You can install your own server https://github.com/bazarinitiative/BazarServer/blob/master/Install.md
+- Or you can install your own server https://github.com/bazarinitiative/BazarServer/blob/master/Install.md
 
 ## Links
-- https://github.com/bazarinitiative/BazarServer/blob/master/doc/Bazar-Standard.md/
+- https://github.com/bazarinitiative/BazarServer/blob/master/doc/Bazar-Standard.md
 - https://github.com/bazarinitiative/bazar-protocol-doc/blob/main/BazarProtocol.md
 - https://bazarinitiative.org/
 - https://developer.tbd.website/projects/web5/
