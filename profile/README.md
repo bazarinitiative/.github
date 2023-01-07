@@ -10,7 +10,10 @@
 - https://github.com/bazarinitiative/BazarServer/blob/master/doc/Bazar-Standard.md
 - https://github.com/bazarinitiative/bazar-protocol-doc/blob/main/BazarProtocol.md
 - https://bazarinitiative.org/
+
+## Similar alternatives
 - https://developer.tbd.website/projects/web5/
+- https://github.com/nostr-protocol/nostr
 
 <!--
 
