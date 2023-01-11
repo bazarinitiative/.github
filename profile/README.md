@@ -1,6 +1,6 @@
 ## Summary
 
-  A decentralized social media.
+  A decentralized social media. Every user fully owns and control his data (identity, post, reply, like, following, etc) through public-private key pair.
 
 ## How to start
 - You can start with a try from https://bazar.social/
