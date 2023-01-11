@@ -1,6 +1,10 @@
 ## Summary
 
-  A decentralized social media. Every user fully owns and control his data (identity, post, reply, like, following, etc) through public-private key pair.
+  A decentralized social media. 
+  
+- Every user will fully own and control his data (identity, post, reply, like, following, etc) with public-private key algorithm.
+- All content will be public and transparent.
+- Potential moderation will be diversiform and therefore nutral.
 
 ## How to start
 - You can start with a try from https://bazar.social/
@@ -12,8 +16,10 @@
 - https://bazarinitiative.org/
 
 ## Similar alternatives
-- https://developer.tbd.website/projects/web5/
-- https://github.com/nostr-protocol/nostr
+- https://developer.tbd.website/projects/web5/ 
+  - They choose DID which is not good.
+- https://github.com/nostr-protocol/nostr 
+  - Pure p2p solution has certain shortage.
 
 <!--
 
