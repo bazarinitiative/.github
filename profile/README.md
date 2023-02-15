@@ -2,7 +2,7 @@
 
   A decentralized social media. 
   
-- Every user will fully own and control his data (identity, post, reply, like, following, etc) with public-private key algorithm.
+- Every user will fully own and control his data (identity, post, reply, like, following, etc) with public-key algorithm.
 - All content will be public and transparent.
 - Potential moderation will be diversiform and therefore nutral.
 
